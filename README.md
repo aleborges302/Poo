@@ -2,7 +2,7 @@
 ## Lógica de Progamação
 
 
-![java](https://github.com/aleborges302/java/blob/master/java.png)
+![java](https://github.com/aleborges302/Poo/blob/master/java.png)
 
 
 ### Assitir ao vídeo de introdução 
